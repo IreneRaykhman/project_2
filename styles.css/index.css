@@ -1,0 +1,217 @@
+.first_line{
+    background-color:#2378C9 ;
+    height: 65px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    color: white;
+}
+.first_line_right{
+    display: flex;
+    margin-right: 10px;
+}
+.first_line_left{
+    display: flex;
+}
+.tel_icon, 
+.mail_icon{
+    display: flex;
+}
+.list-item{
+    list-style-type: none;
+    padding-right: 40px;
+}
+.second_line{
+    height: 100px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.list{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.logo{
+    height: 44px;
+}
+.nav_button{
+    color: white;
+    width: 208px;
+    height: 52px;
+    border-radius: 26px;
+    background: rgb(248, 109, 109);
+}
+.main_section{
+    background-color: #0E6EAA;
+    height: 681px;
+    display: flex;
+}
+.photo_banner{
+    display: flex;
+}
+.main_text_button{
+    color: white;
+    display: flex;
+    flex-direction: column;
+    width: 748px;
+    justify-content: center;
+    align-items: center;
+}
+.container_main{
+    display: flex;
+}
+.main_button{
+    width: 255px;
+    height: 59px;
+    color: white;
+    border-radius: 29.5px;
+    background: rgb(94, 184, 240);
+}
+.container_section_2{
+    width: 1232px;
+    height: 560px;
+    display: flex;
+}
+.section_2{
+    height: 720px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.small_sec_2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.small_list{
+    display: flex;
+    justify-content: space-around;
+}
+.h2_sec_2,
+.sec_2_desc{
+    padding-left: 40px;
+}
+.title_h1{
+    color: rgb(255, 255, 255);
+    font-family: Source Sans 3, sans-serif;
+    font-size: 62px;
+    font-weight: 700;
+    line-height: 78px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+.title_h1_desc{
+    color: rgb(255, 255, 255);
+    font-family: Source Sans Pro, sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 23px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+.h2_desc{
+    color: rgb(107, 104, 104);
+    font-family: Source Sans Pro;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 23px;
+}
+.small_list{
+    color: rgb(48, 45, 45);
+    font-family: Source Sans Pro;
+    font-size: 20.25px;
+    font-weight: 400;
+    line-height: 25px;
+}
+.section_3{
+    height: 550px;
+    background-color: rgb(223, 238, 252);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.part_3{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.sec_3_block{
+    margin-left: 100px;
+}
+.h2{
+    font-family: Source Sans 3, sans-serif;
+    font-weight: 400;
+    font-size: 52px;
+    justify-content: center;
+}
+.h2_desc{
+    font-family: Source Sans 3. sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+    color: rgb(48, 45, 45);
+}
+.section_4{
+    height: 620px;
+    display: flex;
+    display: flex;
+
+}
+.sec_4_description{
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+}
+.h2_sec_4{
+    display: flex;
+    align-self: center;
+}
+.h2_desc_sec_4{
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    justify-self: center;
+}
+.block_sec_4{
+    display: flex;
+    justify-content: space-around;
+}
+.section_5{
+    min-height: 885px ;
+    background-color:
+    rgba(167, 210, 251, 0.92);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.cost{
+    height: 650px;
+}
+.tooth{
+    height: 655px;
+}
+.section_6{
+    height: 708px;
+    background-color:rgba(170, 230, 262, 0.92) ;
+    display: flex;
+}
+.container_sec_6{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.form{
+    height: 474px;
+    width: 425px;
+    background-color: white;
+    margin-left: 150px;
+}
+.nurse{
+    margin-left: 75px;
+    height: 700px;
+}
